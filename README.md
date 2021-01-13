@@ -1439,7 +1439,6 @@ You can download the PDF and Epub version of this repository from the latest run
         )
       }
     }
-
     ```
     *The Equivalent Functional Component*
 
